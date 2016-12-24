@@ -42,11 +42,8 @@
         <meta-data
             android:name="Substratum_ThemeReady"
             android:value="all"/> <!-- Only pick one! -->
-        <meta-data
-            android:name="Substratum_Wallpapers"
-            android:value="http://pastebin.com/raw/ims9URut"/>
 
-        <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
+                <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
         <meta-data
             android:name="Substratum_Plugin"
             android:value="6.0.0"/>
