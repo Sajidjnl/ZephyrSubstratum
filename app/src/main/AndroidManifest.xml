@@ -42,6 +42,9 @@
         <meta-data
             android:name="Substratum_ThemeReady"
             android:value="all"/> <!-- Only pick one! -->
+        <meta-data
+            android:name="Substratum_Wallpapers"
+            android:value="https://raw.githubusercontent.com/sajid/ZephyrSubstratum/raw/master/wallpapers/index.txt"/>
 
                 <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
         <meta-data
