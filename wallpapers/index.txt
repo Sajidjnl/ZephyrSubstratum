@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+ <substratum>
+     <wallpaper id="wallpaper01">
+         <link>https://raw.githubusercontent.com/sajid/ZephyrSubstratum/raw/master/wallpapers/Wallpaper01.png</link>
+         <preview>https://raw.githubusercontent.com/sajid/ZephyrSubstratum/raw/master/wallpapers/Wallpaper01.png</preview>
+     </wallpaper>
+	 <wallpaper id="wallpaper02">
+	     <link>https://raw.githubusercontent.com/sajid/ZephyrSubstratum/raw/master/wallpapers/Wallpaper02.png</link>
+		 <preview>https://raw.githubusercontent.com/sajid/ZephyrSubstratum/raw/master/wallpapers/Wallpaper02.png</preview>
+     </wallpaper>	 
+ </substratum>
