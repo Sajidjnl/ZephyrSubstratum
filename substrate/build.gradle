@@ -1,2 +1,2 @@
-configurations.maybeCreate("default")
+onfigurations.maybeCreate("default")
 artifacts.add("default", file('substrate.aar'))
